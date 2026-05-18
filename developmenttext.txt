@@ -1,2 +1,12 @@
 stage
+<<<<<<< HEAD
 1 
+=======
+
+
+stage checking1
+stage checking2
+
+
+tasaku dum dum
+>>>>>>> cff4b00 (Taksaku added)
