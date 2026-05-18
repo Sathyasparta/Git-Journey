@@ -1,2 +1,6 @@
 one
-1
+<<<<<<< HEAD
+1 hello main
+=======
+1 hello stage
+>>>>>>> stage
